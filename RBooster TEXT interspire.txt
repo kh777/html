@@ -1,0 +1,42 @@
+To view it online, please go here: %%webversion%%
+
+AskingPoint -  By Developers for Developers
+
+Why The iOS 6 App Store Makes Using A Rating Widget Super Important
+
+Without A Rating Widget Your App Is Losing Downloads
+
+1. Search results show only 1 App per screen. 
+2. With over 870,000 Apps in the App store your App needs to be near the front. 
+3. Keywords and search terms are only part of the solution. 
+4. Ratings & Reviews are the rest. 
+5. A steady stream of good Ratings & Reviews move Apps to the front.
+
+Our rating widget works by using App Analytics to ask only the best users to rate your App.
+
+Best of all, AskingPoint App Analytics with the Ratings Booster is free.
+
+Check Out The AskingPoint Ratings Booster [http://www.ratingbooster.info]                      
+
+Hi,
+
+I'm the Founder of AskingPoint and I have both personal and professional Apps in the iOS App store. I had the same problem you do, mainly how to get them noticed and improve their Ratings & Reviews.
+
+I discovered that by using App Analytics to control a Rating Widget, I could get a steady stream of high quality Ratings & Reviews that substantially improved my App's position in App Store search results.
+
+The closer it got to the front of the new styled search results, the more downloads I got and after only 7 months of using Ratings Booster downloads have more than doubled.
+
+That's a fact and I publish the data to prove it in this blog post. See for yourself. [http://blog.ratingbooster.info/2013/02/20/why-you-should-be-using-ratings-booster/].
+
+Keep On Coding,
+Cliff Ribaudo
+Founder & CEO, AskingPoint
+
+•    AskingPoint [http://www.ratingbooster.info]
+•    Blog [http://blog.ratingbooster.info]
+•    Contact [mailto:support@ratingbooster.info]
+•    Unsubscribe [%%unsubscribelink%%]
+
+AskingPoint is owned and operated by KnowFu Inc., 902 Broadway 6th Floor, New York, NY 10010
+
+If you do not wish to receive AskingPoint communications in the future you can unsubscribe from our mailing list at any time by via the unsubscribe link above, and you will be immediately removed. We welcome all comments, feedback and suggestions.
